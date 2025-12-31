@@ -78,7 +78,7 @@ A modern AI-powered chat application built with Bun, React, TypeScript, and Open
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/chat-flow.git
+   git clone https://github.com/syednoman-sd/chat-flow.git
    cd chat-flow
    ```
 
